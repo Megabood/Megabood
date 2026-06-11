@@ -4,7 +4,7 @@
 
 ## 🎨 About Me
 
-I’m passionate about understanding how systems break, how to defend them, and how to build secure environments from the ground up. My GitHub and LinkedIn showcase hands‑on labs, enterprise‑style SOC projects, and continuous learning. Currently working at Rockwell Automation as a Software Engineer!
+Currently working at Rockwell Automation as a Software Engineer! I’m passionate about understanding how systems break, how to defend them, and how to build secure environments from the ground up. My GitHub and LinkedIn showcase hands‑on labs, enterprise‑style SOC projects, and continuous learning. 
 
 ## 🔭 I’m currently working on
 
