@@ -4,7 +4,7 @@
 
 ## 🎨 About Me
 
-I’m passionate about understanding how systems break, how to defend them, and how to build secure environments from the ground up. My GitHub and LinkedIn showcase hands‑on labs, enterprise‑style SOC projects, and continuous learning.
+I’m passionate about understanding how systems break, how to defend them, and how to build secure environments from the ground up. My GitHub and LinkedIn showcase hands‑on labs, enterprise‑style SOC projects, and continuous learning. Currently working at Rockwell Automation as a Software Engineer!
 
 ## 🔭 I’m currently working on
 
@@ -32,8 +32,8 @@ I’m actively building toward roles such as:
 
 ## 📫 How to reach me
 
-LinkedIn: www.linkedin.com/in/adam-snyder-2b0b5b332
-GitHub: You’re already here
-Email: Asnyder51@my.gcu.edu
+- LinkedIn: www.linkedin.com/in/adam-snyder-2b0b5b332
+- GitHub: You’re already here
+- Email: Asnyder51@my.gcu.edu
 
 
