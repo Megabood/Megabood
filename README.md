@@ -22,7 +22,7 @@ I’m passionate about understanding how systems break, how to defend them, and 
 
 I currently hold CompTIA Security+ and Network+.
 
-##🎯 Career Interests
+## 🎯 Career Interests
 
 I’m actively building toward roles such as:
 - SOC Analyst
@@ -30,7 +30,7 @@ I’m actively building toward roles such as:
 - Digital Forensics / Incident Response
 - DevSecOps Engineer
 
-##📫 How to reach me
+## 📫 How to reach me
 
 LinkedIn: www.linkedin.com/in/adam-snyder-2b0b5b332
 GitHub: You’re already here
